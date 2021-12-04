@@ -51,6 +51,6 @@
     "elr-scss-functions": "1.1.6",
     "elr-scss-helpers": "^0.0.12",
     "elr-scss-lists": "^0.0.5",
-    "elr-scss-reset": "^0.0.7"
+    "elr-scss-reset": "^0.0.8"
   }
 }
